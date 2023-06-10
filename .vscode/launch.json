@@ -1,0 +1,15 @@
+{
+  "configurations": [
+    {
+      "name": "Debug",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/main.dart",
+      "flutterMode": "debug",
+      "codeLens": {
+        "for": ["run-file"]
+      },
+      "toolArgs": ["--dart-define", "DEMO_ENV_VARIABLE=demo"]
+    }
+  ]
+}
