@@ -1,5 +1,5 @@
 import 'package:auto_route/auto_route.dart';
-import 'package:flutter_demo/ui/core/pages/home.dart';
+import 'package:flutter_demo/ui/pages/home.dart';
 
 part 'router.gr.dart';
 
